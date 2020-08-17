@@ -1,0 +1,14 @@
+.form-control {
+  width: 300px;
+}
+
+input {
+  margin-top: 20px;
+}
+button {
+  margin: 20px 0px 20px 0px;
+}
+
+label {
+  font-size: 22px;
+}
